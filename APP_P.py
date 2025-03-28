@@ -139,6 +139,7 @@ def run_random_forest():
 
 st.title("Interactive ML Model Trainer & Evaluator")
 st.write("This app trains several ML models using Scikit-Learn and visualizes the evaluation metrics.")
+st.title(" Kumar Harsh, Roll No. : 2205137 ")
 
 # Sidebar to choose model type: Regression or Classification
 model_type = st.sidebar.radio("Select Model Type", ("Regression", "Classification"))
